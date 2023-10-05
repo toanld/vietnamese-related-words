@@ -1,5 +1,5 @@
 {
-  "name": "nguyenhiep/vietnamese-related-words",
+  "name": "toanld/vietnamese-related-words",
   "description": "Make related words from vietnamese string",
   "keywords": [
     "related",
@@ -21,7 +21,7 @@
   "require": {
     "guzzlehttp/guzzle": "^6.3|^7.0.1",
     "spatie/laravel-package-tools": "1.6.3",
-    "symfony/process": "^5.2"
+    "symfony/process": "*"
   },
   "autoload": {
     "psr-4": {
