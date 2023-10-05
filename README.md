@@ -1,7 +1,7 @@
 # Installation
 
 ```shell
-    composer require nguyenhiep/vietnamese-related-words
+    composer require toanld/vietnamese-related-words
 ```
 
 # Configuration
